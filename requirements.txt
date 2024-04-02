@@ -1,0 +1,11 @@
+langchain
+accelerate
+transformers
+torch
+openai==1.2.0
+chromadb==0.4.24
+unstructured==0.12.6
+markdown==3.6
+sentence-transformers
+tiktoken==0.6.0
+streamlit==1.32.2
